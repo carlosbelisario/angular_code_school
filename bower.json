@@ -1,0 +1,21 @@
+{
+  "name": "codeschool_angular",
+  "version": "0.0.0",
+  "authors": [
+    "Carlos Belisario <carlos.belisario.gonzalez@gmail.com>"
+  ],
+  "description": "tutorial code school",
+  "main": "index.html",
+  "keywords": [
+    "tutorial",
+    "codeschool"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
